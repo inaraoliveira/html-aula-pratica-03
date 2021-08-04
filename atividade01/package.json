@@ -1,0 +1,13 @@
+{
+  "name": "atividade01",
+  "version": "1.0.0",
+  "description": "páginas web",
+  "main": "cafe.html",
+  "scripts": {
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "Inara",
+  "license": "ISC"
+}

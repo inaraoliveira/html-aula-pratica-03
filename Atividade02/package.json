@@ -1,0 +1,13 @@
+{
+  "name": "atividade02",
+  "version": "1.0.0",
+  "description": "pagina web",
+  "main": "receita.html",
+  "scripts": {
+  },
+  "keywords": [
+    "pagina"
+  ],
+  "author": "Inara",
+  "license": "ISC"
+}
